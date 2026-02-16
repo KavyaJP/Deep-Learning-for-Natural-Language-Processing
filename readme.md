@@ -7,3 +7,4 @@
 | 3      | Primitive & Shallow Networks | [File](3_Primitive_and_Shallow_Networks.ipynb) |
 | 4      | Pytorch 101                  | [File](4_Pytorch_101.ipynb)                    |
 | 5      | Word Embeddings              | [File](5_Word_Embeddings.ipynb)                |
+| 6      | RNN FOR Sequence Labeling    | [File](6_RNN_for_Sequence_Labeling.ipynb)      |
