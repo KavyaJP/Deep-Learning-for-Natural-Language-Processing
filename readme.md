@@ -1,10 +1,11 @@
 # Deep Learning for Natural Language Processing
 
-| Number | Topic                        | Files                                          |
-| ------ | ---------------------------- | ---------------------------------------------- |
-| 1      | N - Grams                    | [File](1_N_Grams.ipynb)                        |
-| 2      | NTLK Space                   | [File](2_NLTK.ipynb)                           |
-| 3      | Primitive & Shallow Networks | [File](3_Primitive_and_Shallow_Networks.ipynb) |
-| 4      | Pytorch 101                  | [File](4_Pytorch_101.ipynb)                    |
-| 5      | Word Embeddings              | [File](5_Word_Embeddings.ipynb)                |
-| 6      | RNN FOR Sequence Labeling    | [File](6_RNN_for_Sequence_Labeling.ipynb)      |
+| Number | Topic                                | Files                                                      |
+| ------ | ------------------------------------ | ---------------------------------------------------------- |
+| 1      | N - Grams                            | [File](1_N_Grams.ipynb)                                    |
+| 2      | NTLK Space                           | [File](2_NLTK.ipynb)                                       |
+| 3      | Primitive & Shallow Networks         | [File](3_Primitive_and_Shallow_Networks.ipynb)             |
+| 4      | Pytorch 101                          | [File](4_Pytorch_101.ipynb)                                |
+| 5      | Word Embeddings                      | [File](5_Word_Embeddings.ipynb)                            |
+| 6      | RNN FOR Sequence Labeling            | [File](6_RNN_for_Sequence_Labeling.ipynb)                  |
+| 7      | Attention & Transformer Architecture | [File](7_Attention_and_the_Transformer_architecture.ipynb) |
